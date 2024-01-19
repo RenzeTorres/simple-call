@@ -17,7 +17,7 @@ font-family: 'Lato', sans-serif;
 
 /* Call to Action "button" */
 .cta a, .cta a:visited {
-    color: hsl(0, 100%, 50%); 
+    color: hsl(0, 98%, 48%); 
     text-decoration: none;
     padding: 10px 20px; 
     border: 3px solid hsl(0, 100%, 50%); 
